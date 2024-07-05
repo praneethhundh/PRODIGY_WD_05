@@ -1,1 +1,4 @@
-# PRODIGY_WD_05
+The Weather Website is designed to fetch and display real-time weather data based on user-provided city names. It integrates with OpenWeatherMap API using JavaScript to dynamically update temperature, weather condition, daytime status, and current time. The webpage features responsive design principles, adjusting elements for various screen sizes. Users can enter a city name, triggering a search function that fetches weather data and updates the interface with appropriate weather icons and backgrounds for conditions like sunny, cloudy, rainy, snowy, misty, foggy, and more. Each weather condition is visually represented through CSS animations and background gradients, enhancing user experience with engaging visual feedback. The project utilizes modern web technologies like CSS animations, flexbox layouts, and responsive design to ensure compatibility across devices, providing an intuitive and interactive weather reporting interface.
+
+
+
